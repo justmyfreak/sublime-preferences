@@ -20,5 +20,6 @@
 	"tab_size": 4,
 	"tabs_small": true,
 	"translate_tabs_to_spaces": false,
-	"word_wrap": true
+	"word_wrap": true,
+	"open_files_in_new_window": false
 }
